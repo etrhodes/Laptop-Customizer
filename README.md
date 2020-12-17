@@ -1,5 +1,11 @@
-# Laptop Customizer
-_Starter project for React course_
+Laptop Customizer
+This project is an exercise for Thinkful's "Thinking in React" checkpoint
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# Laptop-Customizer
+Module: Client-side programming with React
+Objective(s)
+Decompose a design into a react component hierarchy and implement it with state and props.
+Tech Stack
+React.js
+JSX
+CSS
+JavaScript
