@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import "./OrderForm.css";
 import FeatureName from "./FeatureName";
+import FEATURES from "./STORE";
 
 class OrderForm extends Component {
   static defaultProps = {
-    features: {},
+    features: { FEATURES },
     selected: {},
     updateFeature: () => {},
   };
